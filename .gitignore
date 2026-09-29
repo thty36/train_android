@@ -1,0 +1,19 @@
+# Gradle
+.gradle/
+build/
+
+# Kotlin
+.kotlin/
+
+# IDE
+.idea/
+*.iml
+
+# Local machine config
+local.properties
+
+# Build artifacts
+*.apk
+
+# Logs
+*.log
